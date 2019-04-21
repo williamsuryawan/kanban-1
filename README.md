@@ -2,7 +2,7 @@
 
 ## Hasil Deploy: 
 ```
-https://kanbantodolist.firebaseapp.com/
+https://my-phase2-project.firebaseapp.com/
 ```
 
 ## Project setup
